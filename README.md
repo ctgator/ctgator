@@ -1,11 +1,12 @@
-- Hi, I’m @ctgator
-- Experienced data engineer and development leader with over 20 years of expertise in
-designing, building, and optimizing data systems at scale.
-- Proven success in leading large-scale data infrastructure projects, data modeling, and custom ETL solutions.
-- Skilled in cloud platforms, data governance, and software development, with a focus on enhancing operational efficiency and driving business outcomes.
-- Strong cross-functional collaborator with the ability to mentor teams and influence data-driven decisions.
+# Hi, I'm Kris 👋
 
-<!---
-ctgator/ctgator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Principal data & cloud engineering leader • GCP & AWS • Airflow, dbt, BigQuery • Data quality & automation
+
+**What I work on:**
+- Building cloud-native ELT pipelines (GCP BigQuery, dbt Cloud, Airflow 3)
+- Data quality frameworks (schema drift tracking, automated validation)
+- Event-driven, message-based architectures
+
+**Selected projects:**
+- [airflow-data-quality-demo](https://github.com/<you>/airflow-data-quality-demo) – nightly quality checks around an ELT pipeline
+- [dbt-layered-warehouse-demo](https://github.com/<you>/dbt-layered-warehouse-demo) – raw→stage→mart with tests and macros
