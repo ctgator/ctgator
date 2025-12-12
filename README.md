@@ -8,5 +8,5 @@ Principal data & cloud engineering leader • GCP & AWS • Airflow, dbt, BigQue
 - Event-driven, message-based architectures
 
 **Selected projects:**
-- [airflow-data-quality-demo](https://github.com/<you>/airflow-data-quality-demo) – nightly quality checks around an ELT pipeline
-- [dbt-layered-warehouse-demo](https://github.com/<you>/dbt-layered-warehouse-demo) – raw→stage→mart with tests and macros
+- [A Choice Few](https://pysynapse.com/accomplishments.html) – brief summaries of recent projects
+
