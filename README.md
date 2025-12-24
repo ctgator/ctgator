@@ -1,4 +1,4 @@
-# Hi, I'm Kris 👋
+# Hello, I'm Kris Kokomoor 
 
 Principal data & cloud engineering leader • GCP & AWS • Airflow, dbt, BigQuery • Data quality & automation
 
