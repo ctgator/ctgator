@@ -1,12 +1,10 @@
-# Hello, I'm Kris Kokomoor 
+# Kris Kokomoor
 
-Principal data & cloud engineering leader • GCP & AWS • Airflow, dbt, BigQuery • Data quality & automation
+Principal data & platform engineer building trustworthy data systems for regulated environments — GCP, BigQuery, dbt, Airflow, PostgreSQL, Python, C++.
 
-**What I work on:**
-- Building cloud-native ELT pipelines (GCP BigQuery, dbt Cloud, Airflow 3)
-- Data quality frameworks (schema drift tracking, automated validation)
-- Event-driven, message-based architectures
+Two active research programs, both published at [pysynapse.com](https://pysynapse.com):
 
-**Selected projects:**
-- [A Choice Few](https://pysynapse.com/accomplishments.html) – brief summaries of recent projects
+- **DICOM Trust Boundary** — pre-persistence structural inspection and policy transformation for medical imaging ingest (`fastDICOMstructure`)
+- **Autonomous DataOps** — Evidence Packets and evidence-driven pipeline diagnosis
 
+Formerly Pfizer (clinical image management) and Podimetrics (healthcare data platforms). Consulting through [PalmerCove LLC](https://palmercove.com).
